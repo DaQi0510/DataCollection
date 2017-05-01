@@ -1,0 +1,24 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : DataCollection.brd                            )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Tue Apr 11 15:49:37 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+WARNING: The following vias/pins have connections using non-plated padstacks
+         This may cause issues with your manufacturing process.
+
+  Pin/Via         Padstack                                   Location
+  -------------------------------------------------------------------------
+  U1.57           HS160                                    (2015.843 594.496)
+  U1.58           HS160                                    (2015.843 1578.748)
+
+
+WARNING   WARNING(SPMHDB-42): Run batch DRC to correctly regenerate DRC errs.
+
+3 warnings, 0 errors detected, 0 errors could be fixed.

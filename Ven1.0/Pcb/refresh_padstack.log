@@ -1,0 +1,149 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : DataCollection.brd                            )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Mon Apr 10 16:08:02 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Mon Apr 10 16:08:02 2017				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design  = 'F:/计量采集模块部分/Ven1.0/Pcb/DataCollection.brd'
+Output design = ''
+Reset symbol text and size locations   = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  F:/CADENCE LIB/cadence-lib-new/PSM/ 
+
+PADPATH =  F:/CADENCE LIB/cadence-lib-new/PAD/ 
+
+
+------ Pad Stack Refresh Messages ------
+
+'VIA-12-20'  pad stack refresh starting.
+
+     'VIA-12-20'  pad stack refreshed successfully.
+     
+'MTG-450-320'  pad stack refresh starting.
+
+     'MTG-450-320'  pad stack refreshed successfully.
+     
+'C180H120'  pad stack refresh starting.
+
+     'C180H120'  pad stack refreshed successfully.
+     
+'C150H100'  pad stack refresh starting.
+
+     'C150H100'  pad stack refreshed successfully.
+     
+'B145_60'  pad stack refresh starting.
+
+     'B145_60'  pad stack refreshed successfully.
+     
+'B120_30'  pad stack refresh starting.
+
+     'B120_30'  pad stack refreshed successfully.
+     
+'B120_35'  pad stack refresh starting.
+
+     'B120_35'  pad stack refreshed successfully.
+     
+'R100_330'  pad stack refresh starting.
+
+     'R100_330'  pad stack refreshed successfully.
+     
+'R345_255P238_148'  pad stack refresh starting.
+
+     'R345_255P238_148'  pad stack refreshed successfully.
+     
+'R195_60'  pad stack refresh starting.
+
+     'R195_60'  pad stack refreshed successfully.
+     
+'B112_60'  pad stack refresh starting.
+
+     'B112_60'  pad stack refreshed successfully.
+     
+'R155_60'  pad stack refresh starting.
+
+     'R155_60'  pad stack refreshed successfully.
+     
+'H580C300P'  pad stack refresh starting.
+
+     'H580C300P'  pad stack refreshed successfully.
+     
+'S230X320'  pad stack refresh starting.
+
+     'S230X320'  pad stack refreshed successfully.
+     
+'S59X200'  pad stack refresh starting.
+
+     'S59X200'  pad stack refreshed successfully.
+     
+'HS160'  pad stack refresh starting.
+
+     'HS160'  pad stack refreshed successfully.
+     
+'R140_110'  pad stack refresh starting.
+
+     'R140_110'  pad stack refreshed successfully.
+     
+'R325_200'  pad stack refresh starting.
+
+     'R325_200'  pad stack refreshed successfully.
+     
+'C150H90'  pad stack refresh starting.
+
+     'C150H90'  pad stack refreshed successfully.
+     
+'C250H150'  pad stack refresh starting.
+
+     'C250H150'  pad stack refreshed successfully.
+     
+'R160_160'  pad stack refresh starting.
+
+     'R160_160'  pad stack refreshed successfully.
+     
+'R190_255'  pad stack refresh starting.
+
+     'R190_255'  pad stack refreshed successfully.
+     
+'R105_60'  pad stack refresh starting.
+
+     'R105_60'  pad stack refreshed successfully.
+     
+'R67_175'  pad stack refresh starting.
+
+     'R67_175'  pad stack refreshed successfully.
+     
+'S230'  pad stack refresh starting.
+
+     'S230'  pad stack refreshed successfully.
+     Mon Apr 10 16:08:02 2017				Page     2
+
+
+     
+'R57_140'  pad stack refresh starting.
+
+     'R57_140'  pad stack refreshed successfully.
+     
+'R250_230'  pad stack refresh starting.
+
+     'R250_230'  pad stack refreshed successfully.
+     
+'R37_64'  pad stack refresh starting.
+
+     'R37_64'  pad stack refreshed successfully.
+     
+'R42_95'  pad stack refresh starting.
+
+     'R42_95'  pad stack refreshed successfully.
+     
+Completed refreshing all pad stacks successfully.

@@ -1,0 +1,14 @@
+.\obj\lcd.o: HardWare\LCD\LCD.c
+.\obj\lcd.o: HardWare\LCD\lcd.h
+.\obj\lcd.o: .\Source\CMSIS\Core\CM3\stm32f10x.h
+.\obj\lcd.o: .\Source\CMSIS\Core\CM3\core_cm3.h
+.\obj\lcd.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\lcd.o: .\Source\CMSIS\Core\CM3\system_stm32f10x.h
+.\obj\lcd.o: .\Source\User\Main\stm32f10x_conf.h
+.\obj\lcd.o: .\Source\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\obj\lcd.o: .\Source\CMSIS\Core\CM3\stm32f10x.h
+.\obj\lcd.o: .\Source\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\obj\lcd.o: .\SYSTEM\delay\delay.h
+.\obj\lcd.o: .\Source\STM32F10x_StdPeriph_Driver\inc\misc.h
+.\obj\lcd.o: .\HardWare\HardWare.h
+.\obj\lcd.o: .\SYSTEM\sys\sys.h

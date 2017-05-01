@@ -1,0 +1,89 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Auto-interactive Convert Corner - Aicc                           )
+(                                                                     )
+(    Drawing          : DataCollection.brd                            )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Mon Apr 10 10:55:18 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+CommandStart AiCC ************************************************************
+
+Convert Corner Parameters:
+Convert Type:           ARC
+Allow in cns areas:     Yes
+Preferred Radius Size:  5x Line Width
+Min Radius Size:        1x Line Width
+Allow DRCs:             No
+
+Result: 0 of 2 failed to convert
+
+
+CommandEnd AiCC **************************************************************
+CommandStart AiCC ************************************************************
+
+Convert Corner Parameters:
+Convert Type:           ARC
+Allow in cns areas:     Yes
+Preferred Radius Size:  5x Line Width
+Min Radius Size:        1x Line Width
+Allow DRCs:             No
+
+Result: 0 of 2 failed to convert
+
+
+CommandEnd AiCC **************************************************************
+CommandStart AiCC ************************************************************
+
+Convert Corner Parameters:
+Convert Type:           ARC
+Allow in cns areas:     Yes
+Preferred Radius Size:  5x Line Width
+Min Radius Size:        1x Line Width
+Allow DRCs:             No
+
+Result: 0 of 2 failed to convert
+
+
+CommandEnd AiCC **************************************************************
+CommandStart AiCC ************************************************************
+
+Convert Corner Parameters:
+Convert Type:           ARC
+Allow in cns areas:     Yes
+Preferred Radius Size:  5x Line Width
+Min Radius Size:        1x Line Width
+Allow DRCs:             No
+
+Result: 0 of 1 failed to convert
+
+
+CommandEnd AiCC **************************************************************
+CommandStart AiCC ************************************************************
+
+Convert Corner Parameters:
+Convert Type:           ARC
+Allow in cns areas:     Yes
+Preferred Radius Size:  5x Line Width
+Min Radius Size:        1x Line Width
+Allow DRCs:             No
+
+Result: 0 of 2 failed to convert
+
+
+CommandEnd AiCC **************************************************************
+CommandStart AiCC ************************************************************
+
+Convert Corner Parameters:
+Convert Type:           ARC
+Allow in cns areas:     Yes
+Preferred Radius Size:  5x Line Width
+Min Radius Size:        1x Line Width
+Allow DRCs:             No
+
+Result: 0 of 1 failed to convert
+
+
+CommandEnd AiCC **************************************************************

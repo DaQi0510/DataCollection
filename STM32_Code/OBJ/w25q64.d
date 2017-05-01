@@ -1,0 +1,15 @@
+.\obj\w25q64.o: HardWare\W25Q64\W25Q64.c
+.\obj\w25q64.o: HardWare\W25Q64\W25Q64.h
+.\obj\w25q64.o: .\Source\CMSIS\Core\CM3\stm32f10x.h
+.\obj\w25q64.o: .\Source\CMSIS\Core\CM3\core_cm3.h
+.\obj\w25q64.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\w25q64.o: .\Source\CMSIS\Core\CM3\system_stm32f10x.h
+.\obj\w25q64.o: .\Source\User\Main\stm32f10x_conf.h
+.\obj\w25q64.o: .\Source\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\obj\w25q64.o: .\Source\CMSIS\Core\CM3\stm32f10x.h
+.\obj\w25q64.o: .\Source\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\obj\w25q64.o: .\Source\STM32F10x_StdPeriph_Driver\inc\misc.h
+.\obj\w25q64.o: .\SYSTEM\delay\delay.h
+.\obj\w25q64.o: .\HardWare\HardWare.h
+.\obj\w25q64.o: .\SYSTEM\sys\sys.h
+.\obj\w25q64.o: .\Source\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h

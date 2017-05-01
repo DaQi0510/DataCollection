@@ -1,0 +1,143 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Technology File READ                                             )
+(                                                                     )
+(    Drawing          : DataCollection.brd                            )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Mon Apr 10 09:58:57 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+techfile name: F:/对外部分项目/信号发生器改版/Hardware/Pcb/Ruler.tcf
+  layout name: F:/计量采集模块部分/Ven1.0/Pcb/DataCollection.brd
+
+Technology Difference Report
+============================
+
+Design        : DataCollection
+Input File    : F:/对外部分项目/信号发生器改版/Hardware/Pcb/Ruler.tcf
+Update Mode   : Merge (no deletions will be done)
+Constraint Information : CrossSection, Electrical, Physical, Spacing, Same Net Spacing, Properties
+Notes:
+------
+  - Attribute updates are reported as additions, deletions, or changes.
+  - Association updates are reported as additions or deletions. Associations
+    are the members of a MatchGroup, Constraint Set references, the PinPairs
+    of a Net, the members of a Differential Pair, etc.
+  - Clearing an object implies that the object does not exist so all attributes
+    and associations for the object will be deleted. These attribute and association
+    deletions are not included in the Summary totals. Objects are Constraint Sets,
+    Buses, XNets, Nets, etc.
+
+
+---------------------------------------------------------
+Design: DataCollection
+	Changing: DRAWING_EXTENTS to "31496.063,52397.933" from "9842.520,9842.520"
+---------------------------------------------------------
+PhysicalCSet: DEFAULT
+	Changing: MIN_LINE_WIDTH to "10.000" from "5.000"
+	Changing: MIN_NECK_WIDTH to "8.000" from "5.000"
+	Changing: DIFFP_PRIMARY_GAP to "25.000" from "0.000"
+	Changing: DIFFP_NECK_GAP to "10.000" from "0.000"
+	Changing: MAX_LINE_WIDTH to "35.000" from "0.000"
+	Changing: MAXIMUM_NECK_LENGTH to "500.000" from "0.000"
+	Changing: DIFFP_COUPLED_PLUS to "25.000" from "0.000"
+	Changing: DIFFP_MIN_SPACE to "8.000" from "0.000"
+	Adding: VIA_LIST value "VIA-12-20"
+---------------------------------------------------------
+SpacingCSet: DEFAULT
+	Changing: THRUPIN_TO_THRUPIN_SPACING to "8.000" from "5.000"
+	Changing: THRUPIN_TO_SMDPIN_SPACING to "8.000" from "5.000"
+	Changing: THRUPIN_TO_THRUVIA_SPACING to "8.000" from "5.000"
+	Changing: LINE_TO_THRUPIN_SPACING to "8.000" from "10.000"
+	Changing: THRUPIN_TO_SHAPE_SPACING to "8.000" from "5.000"
+	Changing: SMDPIN_TO_SMDPIN_SPACING to "8.000" from "5.000"
+	Changing: SMDPIN_TO_THRUVIA_SPACING to "8.000" from "5.000"
+	Changing: LINE_TO_SMDPIN_SPACING to "8.000" from "10.000"
+	Changing: SHAPE_TO_SMDPIN_SPACING to "8.000" from "5.000"
+	Changing: THRUVIA_TO_THRUVIA_SPACING to "8.000" from "5.000"
+	Changing: LINE_TO_THRUVIA_SPACING to "8.000" from "10.000"
+	Changing: SHAPE_TO_THRUVIA_SPACING to "8.000" from "5.000"
+	Changing: LINE_TO_LINE_SPACING to "8.000" from "10.000"
+	Changing: LINE_TO_SHAPE_SPACING to "8.000" from "10.000"
+	Changing: SHAPE_TO_SHAPE_SPACING to "8.000" from "5.000"
+	Changing: BBV_TO_BBV_SPACING to "8.000" from "5.000"
+	Changing: BBV_TO_THRUPIN_SPACING to "8.000" from "5.000"
+	Changing: BBV_TO_SMDPIN_SPACING to "8.000" from "5.000"
+	Changing: BBV_TO_THRUVIA_SPACING to "8.000" from "5.000"
+	Changing: BBV_TO_LINE_SPACING to "8.000" from "10.000"
+	Changing: BBV_TO_SHAPE_SPACING to "8.000" from "5.000"
+	Changing: BBV_TO_TESTPIN_SPACING to "8.000" from "5.000"
+	Changing: BBV_TO_TESTVIA_SPACING to "8.000" from "5.000"
+	Changing: TESTPIN_TO_TESTPIN_SPACING to "8.000" from "5.000"
+	Changing: TESTPIN_TO_THRUPIN_SPACING to "8.000" from "5.000"
+	Changing: SMDPIN_TO_TESTPIN_SPACING to "8.000" from "5.000"
+	Changing: TESTPIN_TO_THRUVIA_SPACING to "8.000" from "5.000"
+	Changing: TESTPIN_TO_TESTVIA_SPACING to "8.000" from "5.000"
+	Changing: LINE_TO_TESTPIN_SPACING to "8.000" from "10.000"
+	Changing: SHAPE_TO_TESTPIN_SPACING to "8.000" from "5.000"
+	Changing: TESTVIA_TO_THRUPIN_SPACING to "8.000" from "5.000"
+	Changing: SMDPIN_TO_TESTVIA_SPACING to "8.000" from "5.000"
+	Changing: TESTVIA_TO_THRUVIA_SPACING to "8.000" from "5.000"
+	Changing: LINE_TO_TESTVIA_SPACING to "8.000" from "10.000"
+	Changing: SHAPE_TO_TESTVIA_SPACING to "8.000" from "5.000"
+	Changing: BONDPAD_TO_BONDPAD_SPACING to "8.000" from "5.000"
+	Changing: THRUPIN_TO_BONDPAD_SPACING to "8.000" from "5.000"
+	Changing: SMDPIN_TO_BONDPAD_SPACING to "8.000" from "5.000"
+	Changing: BONDPAD_TO_THRUVIA_SPACING to "8.000" from "5.000"
+	Changing: BONDPAD_TO_LINE_SPACING to "8.000" from "10.000"
+	Changing: BONDPAD_TO_SHAPE_SPACING to "8.000" from "5.000"
+	Changing: BONDPAD_TO_BBV_SPACING to "8.000" from "5.000"
+	Changing: BONDPAD_TO_TESTPIN_SPACING to "8.000" from "5.000"
+	Changing: BONDPAD_TO_TESTVIA_SPACING to "8.000" from "5.000"
+	Changing: MIN_BVIA_GAP to "8.000" from "5.000"
+---------------------------------------------------------
+SameNetSpacingCSet: DEFAULT
+	Changing: SN_THRUPIN_TO_THRUPIN_SPACING to "8.000" from "5.000"
+	Changing: SN_THRUPIN_TO_SMDPIN_SPACING to "8.000" from "5.000"
+	Changing: SN_THRUPIN_TO_THRUVIA_SPACING to "8.000" from "5.000"
+	Changing: SN_LINE_TO_THRUPIN_SPACING to "8.000" from "5.000"
+	Changing: SN_THRUPIN_TO_SHAPE_SPACING to "8.000" from "5.000"
+	Changing: SN_SMDPIN_TO_SMDPIN_SPACING to "8.000" from "5.000"
+	Changing: SN_SMDPIN_TO_THRUVIA_SPACING to "8.000" from "5.000"
+	Changing: SN_LINE_TO_SMDPIN_SPACING to "8.000" from "5.000"
+	Changing: SN_SHAPE_TO_SMDPIN_SPACING to "8.000" from "5.000"
+	Changing: SN_THRUVIA_TO_THRUVIA_SPACING to "8.000" from "5.000"
+	Changing: SN_LINE_TO_THRUVIA_SPACING to "8.000" from "5.000"
+	Changing: SN_SHAPE_TO_THRUVIA_SPACING to "8.000" from "5.000"
+	Changing: SN_LINE_TO_LINE_SPACING to "8.000" from "5.000"
+	Changing: SN_LINE_TO_SHAPE_SPACING to "8.000" from "5.000"
+	Changing: SN_SHAPE_TO_SHAPE_SPACING to "8.000" from "5.000"
+	Changing: SN_BBV_TO_THRUPIN_SPACING to "8.000" from "5.000"
+	Changing: SN_BBV_TO_SMDPIN_SPACING to "8.000" from "5.000"
+	Changing: SN_BBV_TO_THRUVIA_SPACING to "8.000" from "5.000"
+	Changing: SN_BBV_TO_LINE_SPACING to "8.000" from "5.000"
+	Changing: SN_BBV_TO_TESTPIN_SPACING to "8.000" from "5.000"
+	Changing: SN_TESTPIN_TO_TESTPIN_SPACING to "8.000" from "5.000"
+	Changing: SN_TESTPIN_TO_THRUPIN_SPACING to "8.000" from "5.000"
+	Changing: SN_SMDPIN_TO_TESTPIN_SPACING to "8.000" from "5.000"
+	Changing: SN_TESTPIN_TO_THRUVIA_SPACING to "8.000" from "5.000"
+	Changing: SN_TESTPIN_TO_TESTVIA_SPACING to "8.000" from "5.000"
+	Changing: SN_LINE_TO_TESTPIN_SPACING to "8.000" from "5.000"
+	Changing: SN_SHAPE_TO_TESTPIN_SPACING to "8.000" from "5.000"
+	Changing: SN_TESTVIA_TO_THRUPIN_SPACING to "8.000" from "5.000"
+	Changing: SN_SMDPIN_TO_TESTVIA_SPACING to "8.000" from "5.000"
+	Changing: SN_TESTVIA_TO_THRUVIA_SPACING to "8.000" from "5.000"
+	Changing: SN_LINE_TO_TESTVIA_SPACING to "8.000" from "5.000"
+	Changing: SN_THRUPIN_TO_BONDPAD_SPACING to "8.000" from "5.000"
+	Changing: SN_SMDPIN_TO_BONDPAD_SPACING to "8.000" from "5.000"
+	Changing: SN_BONDPAD_TO_THRUVIA_SPACING to "8.000" from "5.000"
+	Changing: SN_BONDPAD_TO_LINE_SPACING to "8.000" from "5.000"
+	Changing: SN_BONDPAD_TO_TESTPIN_SPACING to "8.000" from "5.000"
+---------------------------------------------------------
+
+Summary:
+
+Constraint changes found: 1 additions, 0 deletions, 90 changes.
+
+No association changes done.
+
+
+
+

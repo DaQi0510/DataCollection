@@ -1,0 +1,468 @@
+Date and Time : 04/09/17 16:24:38
+
+--------------------------------------------------
+Checking Schematic: Top
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+
+Checking For Unconnected Bus Nets
+
+Checking Off-Page Connections
+
+Checking Pin to Port Connections
+
+Checking for Compatibility with SDT
+
+Reporting Off-Grid Objects
+
+Reporting Ports
+
+Reporting Off-Page Connections
+
+Reporting Globals
+
+Reporting Net Names
+    N00473
+    N00113
+    N00155
+    N00117
+    N00143
+    N00477
+    N00109
+    N00456
+    N00147
+    N00481
+    N00121
+    N00460
+    N00135
+    N00125
+    N00151
+    N00485
+    N00139
+
+Checking Misleading Tap connection
+
+INFO(ORCAP-2207): Check Bus width mismatch
+
+--------------------------------------------------
+Checking Schematic: 4G
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+WARNING(ORCAP-1600): Net has fewer than two connections N231669 
+                    4G, 4G  (6.10, 3.40) 
+WARNING(ORCAP-1600): Net has fewer than two connections N231648 
+                    4G, 4G  (6.10, 3.20) 
+
+Checking For Unconnected Bus Nets
+
+Checking Off-Page Connections
+
+Checking Pin to Port Connections
+
+Checking for Compatibility with SDT
+
+Reporting Off-Grid Objects
+
+Reporting Ports
+    WAKEUP_IN
+    RXD
+    WAKEUP_OUT
+    W_DISABLE
+    TXD
+    RESET
+
+Reporting Off-Page Connections
+
+Reporting Globals
+    VCC3.3
+    VCC1.8
+    USIM_VDD
+    GND
+    VBAT
+
+Reporting Net Names
+    N232378
+    GND
+    N02430
+    N231204
+    RESET
+    RXD
+    N2318181
+    N231669
+    VBAT
+    N02952
+    VCC1.8
+    USIM_VDD
+    W_DISABLE
+    WAKEUP_IN
+    N231235
+    N231648
+    N02731
+    LED_WLAN
+    WAKEUP_OUT
+    N231208
+    TXD
+    VCC3.3
+
+Checking Misleading Tap connection
+
+INFO(ORCAP-2207): Check Bus width mismatch
+
+--------------------------------------------------
+Checking Schematic: Module
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+
+Checking For Unconnected Bus Nets
+
+Checking Off-Page Connections
+
+Checking Pin to Port Connections
+
+Checking for Compatibility with SDT
+ERROR(ORCAP-1601): Package has same name but different source library. C19  E:\CADENCE LIB\MYLIBRARY.OLB/Cap
+                    Module, Module  (3.30, 0.90) 
+ERROR(ORCAP-1601): Package has same name but different source library. C21  E:\CADENCE LIB\MYLIBRARY.OLB/Cap
+                    Module, Module  (2.80, 3.20) 
+
+Reporting Off-Grid Objects
+
+Reporting Ports
+    FLS_MISO
+    FLS_CS
+    FLS_SCK
+    RS485_RE
+    RS485_RX
+    RS485_TX
+    LCD_RST
+    LCD_SCL
+    LCD_SDA
+    LCD_DC
+    FLS_MOSI
+
+Reporting Off-Page Connections
+
+Reporting Globals
+    VCC3.3
+    GND
+
+Reporting Net Names
+    LCD_SCL
+    RS485_RX
+    LCD_DC
+    GND
+    FLS_MISO
+    RS485_TX
+    LCD_RST
+    N232152
+    N2102302
+    N232156
+    FLS_MOSI
+    LCD_SDA
+    VCC3.3
+    FLS_CS
+    N2102306
+    RS485_RE
+    FLS_SCK
+
+Checking Misleading Tap connection
+
+INFO(ORCAP-2207): Check Bus width mismatch
+
+--------------------------------------------------
+Checking Schematic: MCU
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+
+Checking For Unconnected Bus Nets
+
+Checking Off-Page Connections
+
+Checking Pin to Port Connections
+
+Checking for Compatibility with SDT
+ERROR(ORCAP-1601): Package has same name but different source library. C18  E:\CADENCE LIB\MYLIBRARY.OLB/Cap
+                    MCU, MCU  (4.94, 5.84) 
+ERROR(ORCAP-1601): Package has same name but different source library. C17  E:\CADENCE LIB\MYLIBRARY.OLB/Cap
+                    MCU, MCU  (3.44, 5.84) 
+ERROR(ORCAP-1601): Package has same name but different source library. C16  E:\CADENCE LIB\MYLIBRARY.OLB/Cap
+                    MCU, MCU  (7.90, 2.00) 
+ERROR(ORCAP-1601): Package has same name but different source library. C15  E:\CADENCE LIB\MYLIBRARY.OLB/Cap
+                    MCU, MCU  (7.60, 2.00) 
+ERROR(ORCAP-1601): Package has same name but different source library. C14  E:\CADENCE LIB\MYLIBRARY.OLB/Cap
+                    MCU, MCU  (7.30, 2.00) 
+ERROR(ORCAP-1601): Package has same name but different source library. C13  E:\CADENCE LIB\MYLIBRARY.OLB/Cap
+                    MCU, MCU  (7.00, 2.00) 
+ERROR(ORCAP-1601): Package has same name but different source library. C12  E:\CADENCE LIB\MYLIBRARY.OLB/Cap
+                    MCU, MCU  (6.70, 2.00) 
+
+Reporting Off-Grid Objects
+    C18  -  MCU (4.94, 5.84)
+    C17  -  MCU (3.44, 5.84)
+    O1  -  MCU (4.14, 5.44)
+    GND  -  MCU (3.74, 5.64)
+    GND  -  MCU (4.94, 5.44)
+    GND  -  MCU (4.24, 6.24)
+    VCC3.3  -  MCU (7.17, 1.80)
+    GND  -  MCU (7.16, 2.29)
+    OSC_IN  -  MCU (5.04, 5.74)
+    OSC_IN  -  MCU (4.94, 5.74)
+    OSC_OUT  -  MCU (3.84, 5.54)
+    OSC_OUT  -  MCU (3.54, 5.54)
+    OSC_OUT  -  MCU (3.54, 5.74)
+    OSC_OUT  -  MCU (3.54, 5.54)
+    GND  -  MCU (4.34, 6.04)
+    GND  -  MCU (3.54, 6.04)
+    GND  -  MCU (4.34, 6.24)
+    GND  -  MCU (4.34, 6.04)
+    GND  -  MCU (5.04, 6.04)
+    GND  -  MCU (4.34, 6.04)
+    GND  -  MCU (7.26, 2.20)
+    VCC3.3  -  MCU (7.27, 1.90)
+    GND  -  MCU (7.26, 2.20)
+    VCC3.3  -  MCU (7.27, 1.90)
+    GND  -  MCU (7.26, 2.29)
+    GND  -  MCU (7.26, 2.20)
+
+Reporting Ports
+    WAKEUP_IN
+    FLS_MISO
+    RXD
+    WAKEUP_OUT
+    W_DISABLE
+    TXD
+    FLS_CS
+    FLS_SCK
+    RS485_RE
+    RS485_RX
+    RX485_TX
+    LCD_RST
+    LCD_SCL
+    LCD_SDA
+    RESET
+    LCD_DC
+    FLS_MOSI
+
+Reporting Off-Page Connections
+
+Reporting Globals
+    VCC3.3
+    GND
+
+Reporting Net Names
+    GND
+    FLS_MOSI
+    FLS_CS
+    RXD
+    N231143
+    LCD_RST
+    RESET
+    JTMS
+    WAKEUP_IN
+    RS485_RE
+    TXD
+    N231123
+    LCD_DC
+    LCD_SCL
+    OSC_OUT
+    WAKEUP_OUT
+    RX485_TX
+    VCC3.3
+    OSC_IN
+    FLS_SCK
+    FLS_MISO
+    LCD_SDA
+    NRST
+    W_DISABLE
+    RS485_RX
+    JTCK
+
+Checking Misleading Tap connection
+
+INFO(ORCAP-2207): Check Bus width mismatch
+
+--------------------------------------------------
+Checking Schematic: Power
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+
+Checking For Unconnected Bus Nets
+
+Checking Off-Page Connections
+
+Checking Pin to Port Connections
+
+Checking for Compatibility with SDT
+ERROR(ORCAP-1601): Package has same name but different source library. C38  E:\CADENCE LIB\MYLIBRARY.OLB/Cap
+                    Power, Power  (5.10, 5.50) 
+ERROR(ORCAP-1601): Package has same name but different source library. C27  E:\CADENCE LIB\MYLIBRARY.OLB/Cap
+                    Power, Power  (5.00, 2.00) 
+ERROR(ORCAP-1601): Package has same name but different source library. C34  E:\CADENCE LIB\MYLIBRARY.OLB/Cap
+                    Power, Power  (4.70, 5.10) 
+ERROR(ORCAP-1601): Package has same name but different source library. C39  E:\CADENCE LIB\MYLIBRARY.OLB/Cap
+                    Power, Power  (5.40, 5.50) 
+ERROR(ORCAP-1601): Package has same name but different source library. C28  E:\CADENCE LIB\MYLIBRARY.OLB/Cap
+                    Power, Power  (5.40, 2.00) 
+ERROR(ORCAP-1601): Package has same name but different source library. C26  E:\CADENCE LIB\MYLIBRARY.OLB/Cap
+                    Power, Power  (2.40, 2.00) 
+ERROR(ORCAP-1601): Package has same name but different source library. R21  E:\CADENCE LIB\MYLIBRARY.OLB/Res
+                    Power, Power  (5.20, 5.10) 
+ERROR(ORCAP-1601): Package has same name but different source library. C22  F:\CADENCE LIB\CADENCE-LIB-NEW\MYLIBRARY.OLB/Cap+
+                    Power, Power  (5.80, 0.80) 
+ERROR(ORCAP-1601): Package has same name but different source library. R19  E:\CADENCE LIB\MYLIBRARY.OLB/Res
+                    Power, Power  (4.80, 4.90) 
+ERROR(ORCAP-1601): Package has same name but different source library. C31  E:\CADENCE LIB\MYLIBRARY.OLB/Cap
+                    Power, Power  (4.80, 3.10) 
+ERROR(ORCAP-1601): Package has same name but different source library. C29  E:\CADENCE LIB\MYLIBRARY.OLB/Cap
+                    Power, Power  (2.30, 3.10) 
+ERROR(ORCAP-1601): Package has same name but different source library. R20  E:\CADENCE LIB\MYLIBRARY.OLB/Res
+                    Power, Power  (2.80, 5.10) 
+ERROR(ORCAP-1601): Package has same name but different source library. R18  E:\CADENCE LIB\MYLIBRARY.OLB/Res
+                    Power, Power  (4.40, 4.70) 
+ERROR(ORCAP-1601): Package has same name but different source library. C33  E:\CADENCE LIB\MYLIBRARY.OLB/Cap
+                    Power, Power  (4.60, 3.50) 
+ERROR(ORCAP-1601): Package has same name but different source library. C32  E:\CADENCE LIB\MYLIBRARY.OLB/Cap
+                    Power, Power  (5.10, 3.10) 
+ERROR(ORCAP-1601): Package has same name but different source library. C30  E:\CADENCE LIB\MYLIBRARY.OLB/Cap
+                    Power, Power  (2.60, 3.10) 
+ERROR(ORCAP-1601): Package has same name but different source library. C36  E:\CADENCE LIB\MYLIBRARY.OLB/Cap
+                    Power, Power  (3.80, 5.50) 
+ERROR(ORCAP-1601): Package has same name but different source library. C25  E:\CADENCE LIB\MYLIBRARY.OLB/Cap
+                    Power, Power  (2.00, 2.00) 
+ERROR(ORCAP-1601): Package has same name but different source library. D6  E:\CADENCE LIB\MYLIBRARY.OLB/1n5819
+                    Power, Power  (4.50, 5.50) 
+
+Reporting Off-Grid Objects
+
+Reporting Ports
+
+Reporting Off-Page Connections
+
+Reporting Globals
+    VCC5
+    VCC3.3
+    VCC1.8
+    GND
+    VBAT
+
+Reporting Net Names
+    AC(N)
+    N191718
+    N191626
+    N2071294
+    N00098
+    VCC1.8
+    N231156
+    VCC5
+    VBAT
+    N2069021
+    N00091
+    AC(L)
+    N191606
+    N191502
+    GND
+    N191650
+    VCC3.3
+    N191546
+
+Checking Misleading Tap connection
+
+INFO(ORCAP-2207): Check Bus width mismatch
+
+Checking Physical Rules 
+
+
+Checking Pins and Pin Connections
+
+--------------------------------------------------
+Checking Schematic: Top
+--------------------------------------------------
+
+INFO(ORCAP-2242): Checking Incorrect Pin Group Assignment
+
+Report for Invalid References
+
+Report for Duplicate References
+
+INFO(ORCAP-2209): Checking Visible Unconnected Power Pins
+
+--------------------------------------------------
+Checking Schematic: 4G
+--------------------------------------------------
+
+INFO(ORCAP-2242): Checking Incorrect Pin Group Assignment
+
+Report for Invalid References
+
+Report for Duplicate References
+
+INFO(ORCAP-2209): Checking Visible Unconnected Power Pins
+
+--------------------------------------------------
+Checking Schematic: Module
+--------------------------------------------------
+
+INFO(ORCAP-2242): Checking Incorrect Pin Group Assignment
+
+Report for Invalid References
+
+Report for Duplicate References
+
+INFO(ORCAP-2209): Checking Visible Unconnected Power Pins
+
+--------------------------------------------------
+Checking Schematic: MCU
+--------------------------------------------------
+
+INFO(ORCAP-2242): Checking Incorrect Pin Group Assignment
+
+Report for Invalid References
+
+Report for Duplicate References
+
+INFO(ORCAP-2209): Checking Visible Unconnected Power Pins
+
+--------------------------------------------------
+Checking Schematic: Power
+--------------------------------------------------
+
+INFO(ORCAP-2242): Checking Incorrect Pin Group Assignment
+
+Report for Invalid References
+
+Report for Duplicate References
+
+INFO(ORCAP-2209): Checking Visible Unconnected Power Pins
+
+--------------------------------------------------
+Checking Entire Design: DATACOLLECTION 
+--------------------------------------------------
+
+Checking Power Pin Visibility  
+
+Checking Normal Convert View Sync  
+INFO(ORCAP-36105): Checking Missing Pin Numbers  
+#1 ERROR(ORCAP-36041): Duplicate Pin Name "NC" found on Package USIM , U2 Pin Number 8: 4G, 4G (7.70, 1.10). Please renumber one of these.
+
+Checking Device with Zero pins  
+INFO(ORCAP-36101): Checking Missing PCB Footprint Property  
+
+Checking Name Property for Hierarchical Instances  
+
+INFO(ORCAP-2211): Check High Speed Properties Syntax
+
+INFO(ORCAP-2212): Check Power Ground Mismatch
+
+Reporting Unused Refdes in multiple part packages
+Part	                       Quantity	                       Reference
+-----------------------------------------------------------------------------------------

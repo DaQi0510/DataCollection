@@ -1,0 +1,95 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Parameter File READ                                              )
+(                                                                     )
+(    Drawing          : DataCollection.brd                            )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Sun Apr 09 16:38:01 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+	Paramfile Name : F:/CADENCE LIB/cadence-lib-new/TOOLS/ParaSet.prm
+	Layout Name   : F:/计量采集模块部分/Ven1.0/Pcb/DataCollection.brd
+
+Reading...parameter_header:
+Reading...db_common_type:
+Reading...grid_parms_type:
+Reading...UnusedPadsSuppressionSettings:
+Reading...artwork_film:
+	Reading...art_film_type:
+	Reading...art_film_block_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+Reading...artwork_film:
+	Reading...art_film_type:
+	Reading...art_film_block_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+Reading...artwork_film:
+	Reading...art_film_type:
+	Reading...art_film_block_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+Reading...artwork_film:
+	Reading...art_film_type:
+	Reading...art_film_block_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+Reading...artwork_film:
+	Reading...art_film_type:
+	Reading...art_film_block_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+Reading...artwork_film:
+	Reading...art_film_type:
+	Reading...art_film_block_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+Reading...artwork_film:
+	Reading...art_film_type:
+	Reading...art_film_block_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+Reading...artwork_film:
+	Reading...art_film_type:
+	Reading...art_film_block_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+Reading...artwork_film:
+	Reading...art_film_type:
+	Reading...art_film_block_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+Reading...color_table_table:
+Reading...ColorParmType:
+Reading...netCustomColors:
+Reading...compCustomColors:
+Reading...text_size_table:
+Reading...drf_parm_type:
+Reading...thieving_parm_type:
+Reading...ats_parm_type:
+Reading...ifp_parm_type:
+Reading...ministat_parm_type:
+Reading...dynfill_parm_type:
+Reading...probe_parm_type:
+
+
+..... Total number of errors: 0.
+..... Total number of warnings: 0.

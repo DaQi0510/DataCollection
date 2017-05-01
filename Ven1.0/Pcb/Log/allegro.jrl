@@ -1,0 +1,20 @@
+\t (00:00:06) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:00:06)     Journal start - Wed Apr 12 11:51:16 2017
+\t (00:00:06)         Host=DAQI-PC User=DaQi Pid=8500 CPUs=4
+\t (00:00:06) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (00:00:06) 
+   (00:00:06) Loading axlcore.cxt 
+\t (00:00:08) Opening existing design...
+\d (00:00:08) Design opened: F:/计量采集模块部分/Ven1.0/Pcb/DataCollection.brd
+\i (00:00:08) trapsize 126246
+\i (00:00:08) trapsize 122849
+\i (00:00:08) trapsize 126831
+\i (00:00:10) trapsize 105692
+\i (00:00:10) trapsize 105692
+\i (00:00:11) generaledit 
+\i (00:00:13) open 
+\i (00:00:33) fillin "F:\对外部分项目\信号发生器改版\Hardware\Pcb\DDS.brd"
+\i (00:00:33) cd "F:\对外部分项目\信号发生器改版\Hardware\Pcb"
+\t (00:00:33) Opening existing design...
+\i (00:00:34) trapsize 13541
+\t (00:00:34)     Journal end - Wed Apr 12 11:51:43 2017

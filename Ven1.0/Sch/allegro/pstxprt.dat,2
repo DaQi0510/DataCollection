@@ -1,0 +1,860 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001Apr-10-2017 at 16:39:54 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='DATACOLLECTION';
+ POST_TIME='Feb 15 2016 19:53:59';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP_0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):4G@DATACOLLECTION.4G(SCH_1):INS232362@MYLIBRARY.CAP.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):\4g\@datacollection.\4g\(sch_1):ins232362@mylibrary.\cap.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_4g@datacollection.\4g\(sch_1):page2_ins232362@mylibrary.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'CAP_0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):4G@DATACOLLECTION.4G(SCH_1):INS233799@MYLIBRARY.CAP.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):\4g\@datacollection.\4g\(sch_1):ins233799@mylibrary.\cap.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_4g@datacollection.\4g\(sch_1):page2_ins233799@mylibrary.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'CAP_0603_33PF':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):4G@DATACOLLECTION.4G(SCH_1):INS233825@MYLIBRARY.CAP.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):\4g\@datacollection.\4g\(sch_1):ins233825@mylibrary.\cap.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_4g@datacollection.\4g\(sch_1):page2_ins233825@mylibrary.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'CAP_0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):MCU@DATACOLLECTION.MCU(SCH_1):INS231834@MYLIBRARY.CAP.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):mcu@datacollection.mcu(sch_1):ins231834@mylibrary.\cap.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_mcu@datacollection.mcu(sch_1):page3_ins231834@mylibrary.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'CAP_0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):MCU@DATACOLLECTION.MCU(SCH_1):INS231850@MYLIBRARY.CAP.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):mcu@datacollection.mcu(sch_1):ins231850@mylibrary.\cap.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_mcu@datacollection.mcu(sch_1):page3_ins231850@mylibrary.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'CAP_0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):MCU@DATACOLLECTION.MCU(SCH_1):INS231866@MYLIBRARY.CAP.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):mcu@datacollection.mcu(sch_1):ins231866@mylibrary.\cap.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_mcu@datacollection.mcu(sch_1):page3_ins231866@mylibrary.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C15 'CAP_0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):MCU@DATACOLLECTION.MCU(SCH_1):INS231882@MYLIBRARY.CAP.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):mcu@datacollection.mcu(sch_1):ins231882@mylibrary.\cap.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_mcu@datacollection.mcu(sch_1):page3_ins231882@mylibrary.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C16 'CAP_0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):MCU@DATACOLLECTION.MCU(SCH_1):INS231814@MYLIBRARY.CAP.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):mcu@datacollection.mcu(sch_1):ins231814@mylibrary.\cap.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_mcu@datacollection.mcu(sch_1):page3_ins231814@mylibrary.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C17 'CAP_0603_22PF':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):MCU@DATACOLLECTION.MCU(SCH_1):INS231569@MYLIBRARY.CAP.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):mcu@datacollection.mcu(sch_1):ins231569@mylibrary.\cap.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_mcu@datacollection.mcu(sch_1):page3_ins231569@mylibrary.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C18 'CAP_0603_22PF':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):MCU@DATACOLLECTION.MCU(SCH_1):INS231549@MYLIBRARY.CAP.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):mcu@datacollection.mcu(sch_1):ins231549@mylibrary.\cap.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_mcu@datacollection.mcu(sch_1):page3_ins231549@mylibrary.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C19 'CAP_0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):MODULE@DATACOLLECTION.MODULE(SCH_1):INS210192@MYLIBRARY.CAP.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):module@datacollection.module(sch_1):ins210192@mylibrary.\cap.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_module@datacollection.module(sch_1):page4_ins210192@mylibrary.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP_0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):4G@DATACOLLECTION.4G(SCH_1):INS3155@MYLIBRARY.CAP.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):\4g\@datacollection.\4g\(sch_1):ins3155@mylibrary.\cap.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_4g@datacollection.\4g\(sch_1):page2_ins3155@mylibrary.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C20 'CAP_0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):MODULE@DATACOLLECTION.MODULE(SCH_1):INS231941@MYLIBRARY.CAP.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):module@datacollection.module(sch_1):ins231941@mylibrary.\cap.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_module@datacollection.module(sch_1):page4_ins231941@mylibrary.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C21 'CAP_0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):MODULE@DATACOLLECTION.MODULE(SCH_1):INS232443@MYLIBRARY.CAP.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):module@datacollection.module(sch_1):ins232443@mylibrary.\cap.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_module@datacollection.module(sch_1):page4_ins232443@mylibrary.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C22 'CAP+_CAP-7343_470UF':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):POWER@DATACOLLECTION.POWER(SCH_1):INS334@MYLIBRARY.CAP+.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):power@datacollection.power(sch_1):ins334@mylibrary.\cap+.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_power@datacollection.power(sch_1):page5_ins334@mylibrary.\cap+.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C23 'CAP_0805_10UF':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):POWER@DATACOLLECTION.POWER(SCH_1):INS359@MYLIBRARY.CAP.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):power@datacollection.power(sch_1):ins359@mylibrary.\cap.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_power@datacollection.power(sch_1):page5_ins359@mylibrary.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C24 'CAP_0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):POWER@DATACOLLECTION.POWER(SCH_1):INS385@MYLIBRARY.CAP.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):power@datacollection.power(sch_1):ins385@mylibrary.\cap.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_power@datacollection.power(sch_1):page5_ins385@mylibrary.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C25 'CAP_0805_10UF':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):POWER@DATACOLLECTION.POWER(SCH_1):INS135728@MYLIBRARY.CAP.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):power@datacollection.power(sch_1):ins135728@mylibrary.\cap.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_power@datacollection.power(sch_1):page5_ins135728@mylibrary.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C26 'CAP_0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):POWER@DATACOLLECTION.POWER(SCH_1):INS135672@MYLIBRARY.CAP.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):power@datacollection.power(sch_1):ins135672@mylibrary.\cap.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_power@datacollection.power(sch_1):page5_ins135672@mylibrary.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C27 'CAP_0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):POWER@DATACOLLECTION.POWER(SCH_1):INS135752@MYLIBRARY.CAP.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):power@datacollection.power(sch_1):ins135752@mylibrary.\cap.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_power@datacollection.power(sch_1):page5_ins135752@mylibrary.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C28 'CAP_0805_10UF':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):POWER@DATACOLLECTION.POWER(SCH_1):INS135768@MYLIBRARY.CAP.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):power@datacollection.power(sch_1):ins135768@mylibrary.\cap.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_power@datacollection.power(sch_1):page5_ins135768@mylibrary.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C29 'CAP_0805_10UF':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):POWER@DATACOLLECTION.POWER(SCH_1):INS207201@MYLIBRARY.CAP.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):power@datacollection.power(sch_1):ins207201@mylibrary.\cap.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_power@datacollection.power(sch_1):page5_ins207201@mylibrary.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP_0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):4G@DATACOLLECTION.4G(SCH_1):INS2653@MYLIBRARY.CAP.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):\4g\@datacollection.\4g\(sch_1):ins2653@mylibrary.\cap.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_4g@datacollection.\4g\(sch_1):page2_ins2653@mylibrary.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C30 'CAP_0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):POWER@DATACOLLECTION.POWER(SCH_1):INS207227@MYLIBRARY.CAP.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):power@datacollection.power(sch_1):ins207227@mylibrary.\cap.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_power@datacollection.power(sch_1):page5_ins207227@mylibrary.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C31 'CAP_0805_10UF':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):POWER@DATACOLLECTION.POWER(SCH_1):INS207802@MYLIBRARY.CAP.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):power@datacollection.power(sch_1):ins207802@mylibrary.\cap.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_power@datacollection.power(sch_1):page5_ins207802@mylibrary.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C32 'CAP_0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):POWER@DATACOLLECTION.POWER(SCH_1):INS207930@MYLIBRARY.CAP.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):power@datacollection.power(sch_1):ins207930@mylibrary.\cap.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_power@datacollection.power(sch_1):page5_ins207930@mylibrary.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C33 'CAP_0603_0.01UF':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):POWER@DATACOLLECTION.POWER(SCH_1):INS207828@MYLIBRARY.CAP.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):power@datacollection.power(sch_1):ins207828@mylibrary.\cap.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_power@datacollection.power(sch_1):page5_ins207828@mylibrary.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C34 'CAP_0603_220PF':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):POWER@DATACOLLECTION.POWER(SCH_1):INS191608@MYLIBRARY.CAP.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):power@datacollection.power(sch_1):ins191608@mylibrary.\cap.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_power@datacollection.power(sch_1):page5_ins191608@mylibrary.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C35 'CAP_0805_10UF':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):POWER@DATACOLLECTION.POWER(SCH_1):INS192442@MYLIBRARY.CAP.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):power@datacollection.power(sch_1):ins192442@mylibrary.\cap.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_power@datacollection.power(sch_1):page5_ins192442@mylibrary.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C36 'CAP_0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):POWER@DATACOLLECTION.POWER(SCH_1):INS191580@MYLIBRARY.CAP.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):power@datacollection.power(sch_1):ins191580@mylibrary.\cap.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_power@datacollection.power(sch_1):page5_ins191580@mylibrary.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C37 'CAP_0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):POWER@DATACOLLECTION.POWER(SCH_1):INS191692@MYLIBRARY.CAP.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):power@datacollection.power(sch_1):ins191692@mylibrary.\cap.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_power@datacollection.power(sch_1):page5_ins191692@mylibrary.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C38 'CAP+_CAP-6032_100UF16V':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):POWER@DATACOLLECTION.POWER(SCH_1):INS191404@MYLIBRARY.CAP+.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):power@datacollection.power(sch_1):ins191404@mylibrary.\cap+.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_power@datacollection.power(sch_1):page5_ins191404@mylibrary.\cap+.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C39 'CAP_1206_22UF':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):POWER@DATACOLLECTION.POWER(SCH_1):INS191516@MYLIBRARY.CAP.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):power@datacollection.power(sch_1):ins191516@mylibrary.\cap.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_power@datacollection.power(sch_1):page5_ins191516@mylibrary.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP_0603_22PF':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):4G@DATACOLLECTION.4G(SCH_1):INS2873@MYLIBRARY.CAP.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):\4g\@datacollection.\4g\(sch_1):ins2873@mylibrary.\cap.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_4g@datacollection.\4g\(sch_1):page2_ins2873@mylibrary.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP_0603_22PF':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):4G@DATACOLLECTION.4G(SCH_1):INS2899@MYLIBRARY.CAP.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):\4g\@datacollection.\4g\(sch_1):ins2899@mylibrary.\cap.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_4g@datacollection.\4g\(sch_1):page2_ins2899@mylibrary.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP_0603_22PF':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):4G@DATACOLLECTION.4G(SCH_1):INS2925@MYLIBRARY.CAP.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):\4g\@datacollection.\4g\(sch_1):ins2925@mylibrary.\cap.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_4g@datacollection.\4g\(sch_1):page2_ins2925@mylibrary.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP_0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):4G@DATACOLLECTION.4G(SCH_1):INS1906@MYLIBRARY.CAP.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):\4g\@datacollection.\4g\(sch_1):ins1906@mylibrary.\cap.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_4g@datacollection.\4g\(sch_1):page2_ins1906@mylibrary.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAP_0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):4G@DATACOLLECTION.4G(SCH_1):INS1692@MYLIBRARY.CAP.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):\4g\@datacollection.\4g\(sch_1):ins1692@mylibrary.\cap.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_4g@datacollection.\4g\(sch_1):page2_ins1692@mylibrary.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAP+_CAP-7343_470UF16V':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):4G@DATACOLLECTION.4G(SCH_1):INS233773@MYLIBRARY.CAP+.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):\4g\@datacollection.\4g\(sch_1):ins233773@mylibrary.\cap+.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_4g@datacollection.\4g\(sch_1):page2_ins233773@mylibrary.\cap+.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'PESD3V3U1UT_REF3125-SOT23_PESD3':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):4G@DATACOLLECTION.4G(SCH_1):INS3692@MYLIBRARY.PESD3V3U1UT.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):\4g\@datacollection.\4g\(sch_1):ins3692@mylibrary.\pesd3v3u1ut.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_4g@datacollection.\4g\(sch_1):page2_ins3692@mylibrary.\pesd3v3u1ut.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'PESD3V3U1UT_REF3125-SOT23_PESD3':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):4G@DATACOLLECTION.4G(SCH_1):INS4106@MYLIBRARY.PESD3V3U1UT.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):\4g\@datacollection.\4g\(sch_1):ins4106@mylibrary.\pesd3v3u1ut.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_4g@datacollection.\4g\(sch_1):page2_ins4106@mylibrary.\pesd3v3u1ut.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'LED_LED0805_POWER':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):4G@DATACOLLECTION.4G(SCH_1):INS231852@MYLIBRARY.LED.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):\4g\@datacollection.\4g\(sch_1):ins231852@mylibrary.\led.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_4g@datacollection.\4g\(sch_1):page2_ins231852@mylibrary.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D4 '1N5819_SMBJ6_SMBJ6':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):POWER@DATACOLLECTION.POWER(SCH_1):INS309@MYLIBRARY.1N5819.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):power@datacollection.power(sch_1):ins309@mylibrary.\1n5819.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_power@datacollection.power(sch_1):page5_ins309@mylibrary.\1n5819.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D5 'LED_LED0805_POWER':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):POWER@DATACOLLECTION.POWER(SCH_1):INS206892@MYLIBRARY.LED.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):power@datacollection.power(sch_1):ins206892@mylibrary.\led.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_power@datacollection.power(sch_1):page5_ins206892@mylibrary.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D6 '1N5819_SMA_B340A-13-F':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):POWER@DATACOLLECTION.POWER(SCH_1):INS191484@MYLIBRARY.1N5819.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):power@datacollection.power(sch_1):ins191484@mylibrary.\1n5819.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_power@datacollection.power(sch_1):page5_ins191484@mylibrary.\1n5819.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ H1 'HEADER2_DUANZI-2P-508_HEADER2':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):MODULE@DATACOLLECTION.MODULE(SCH_1):INS232520@MYLIBRARY.HEADER2.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):module@datacollection.module(sch_1):ins232520@mylibrary.\header2.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_module@datacollection.module(sch_1):page4_ins232520@mylibrary.\header2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ H2 'HEADER2_DUANZI-2P-508_HEADER2':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):POWER@DATACOLLECTION.POWER(SCH_1):INS111@MYLIBRARY.HEADER2.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):power@datacollection.power(sch_1):ins111@mylibrary.\header2.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_power@datacollection.power(sch_1):page5_ins111@mylibrary.\header2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'HEADER2*2_H-2-2_HEADER2*2':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):MCU@DATACOLLECTION.MCU(SCH_1):INS231312@MYLIBRARY.HEADER2*2.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):mcu@datacollection.mcu(sch_1):ins231312@mylibrary.\header2*2.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_mcu@datacollection.mcu(sch_1):page3_ins231312@mylibrary.\header2*2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'INDUCTOR_L-7-7-3_10UH':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):POWER@DATACOLLECTION.POWER(SCH_1):INS191464@MYLIBRARY.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):power@datacollection.power(sch_1):ins191464@mylibrary.\inductor.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_power@datacollection.power(sch_1):page5_ins191464@mylibrary.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ M2 'MTG_MTG-450-320_MTG':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):INS1210@MYLIBRARY.MTG.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):ins1210@mylibrary.\mtg.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_ins1210@mylibrary.\mtg.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ M3 'MTG_MTG-450-320_MTG':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):INS1228@MYLIBRARY.MTG.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):ins1228@mylibrary.\mtg.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_ins1228@mylibrary.\mtg.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ O1 'OSC-N_OSC-3225_8M':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):MCU@DATACOLLECTION.MCU(SCH_1):INS231523@MYLIBRARY.OSC-N.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):mcu@datacollection.mcu(sch_1):ins231523@mylibrary.\osc-n.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_mcu@datacollection.mcu(sch_1):page3_ins231523@mylibrary.\osc-n.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'RES_0603_15K':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):4G@DATACOLLECTION.4G(SCH_1):INS231253@MYLIBRARY.RES.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):\4g\@datacollection.\4g\(sch_1):ins231253@mylibrary.\res.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_4g@datacollection.\4g\(sch_1):page2_ins231253@mylibrary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'RES_0603_10K':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):MCU@DATACOLLECTION.MCU(SCH_1):INS231370@MYLIBRARY.RES.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):mcu@datacollection.mcu(sch_1):ins231370@mylibrary.\res.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_mcu@datacollection.mcu(sch_1):page3_ins231370@mylibrary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'RES_0603_10K':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):MODULE@DATACOLLECTION.MODULE(SCH_1):INS231286@MYLIBRARY.RES.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):module@datacollection.module(sch_1):ins231286@mylibrary.\res.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_module@datacollection.module(sch_1):page4_ins231286@mylibrary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'RES_0603_10K':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):MODULE@DATACOLLECTION.MODULE(SCH_1):INS231125@MYLIBRARY.RES.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):module@datacollection.module(sch_1):ins231125@mylibrary.\res.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_module@datacollection.module(sch_1):page4_ins231125@mylibrary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'RES_0603_360R':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):MODULE@DATACOLLECTION.MODULE(SCH_1):INS232259@MYLIBRARY.RES.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):module@datacollection.module(sch_1):ins232259@mylibrary.\res.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_module@datacollection.module(sch_1):page4_ins232259@mylibrary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'RES_0603_360R':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):MODULE@DATACOLLECTION.MODULE(SCH_1):INS232233@MYLIBRARY.RES.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):module@datacollection.module(sch_1):ins232233@mylibrary.\res.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_module@datacollection.module(sch_1):page4_ins232233@mylibrary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'RES_0603_120R':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):MODULE@DATACOLLECTION.MODULE(SCH_1):INS232136@MYLIBRARY.RES.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):module@datacollection.module(sch_1):ins232136@mylibrary.\res.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_module@datacollection.module(sch_1):page4_ins232136@mylibrary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 'RES_0603_1.5K':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):POWER@DATACOLLECTION.POWER(SCH_1):INS206908@MYLIBRARY.RES.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):power@datacollection.power(sch_1):ins206908@mylibrary.\res.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_power@datacollection.power(sch_1):page5_ins206908@mylibrary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'RES_0603_10K':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):POWER@DATACOLLECTION.POWER(SCH_1):INS231125@MYLIBRARY.RES.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):power@datacollection.power(sch_1):ins231125@mylibrary.\res.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_power@datacollection.power(sch_1):page5_ins231125@mylibrary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R18 'RES_0603_40.2K':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):POWER@DATACOLLECTION.POWER(SCH_1):INS191448@MYLIBRARY.RES.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):power@datacollection.power(sch_1):ins191448@mylibrary.\res.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_power@datacollection.power(sch_1):page5_ins191448@mylibrary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R19 'RES_0603_140K':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):POWER@DATACOLLECTION.POWER(SCH_1):INS191432@MYLIBRARY.RES.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):power@datacollection.power(sch_1):ins191432@mylibrary.\res.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_power@datacollection.power(sch_1):page5_ins191432@mylibrary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'RES_0603_22R':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):4G@DATACOLLECTION.4G(SCH_1):INS231151@MYLIBRARY.RES.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):\4g\@datacollection.\4g\(sch_1):ins231151@mylibrary.\res.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_4g@datacollection.\4g\(sch_1):page2_ins231151@mylibrary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R20 'RES_0603_100K':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):POWER@DATACOLLECTION.POWER(SCH_1):INS191548@MYLIBRARY.RES.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):power@datacollection.power(sch_1):ins191548@mylibrary.\res.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_power@datacollection.power(sch_1):page5_ins191548@mylibrary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R21 'RES_0603_68.1K':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):POWER@DATACOLLECTION.POWER(SCH_1):INS191628@MYLIBRARY.RES.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):power@datacollection.power(sch_1):ins191628@mylibrary.\res.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_power@datacollection.power(sch_1):page5_ins191628@mylibrary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'RES_0603_22R':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):4G@DATACOLLECTION.4G(SCH_1):INS231125@MYLIBRARY.RES.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):\4g\@datacollection.\4g\(sch_1):ins231125@mylibrary.\res.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_4g@datacollection.\4g\(sch_1):page2_ins231125@mylibrary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'RES_0603_22R':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):4G@DATACOLLECTION.4G(SCH_1):INS231177@MYLIBRARY.RES.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):\4g\@datacollection.\4g\(sch_1):ins231177@mylibrary.\res.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_4g@datacollection.\4g\(sch_1):page2_ins231177@mylibrary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'RES_0603_1K':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):4G@DATACOLLECTION.4G(SCH_1):INS231808@MYLIBRARY.RES.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):\4g\@datacollection.\4g\(sch_1):ins231808@mylibrary.\res.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_4g@datacollection.\4g\(sch_1):page2_ins231808@mylibrary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'RES_0603_10K':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):MCU@DATACOLLECTION.MCU(SCH_1):INS231105@MYLIBRARY.RES.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):mcu@datacollection.mcu(sch_1):ins231105@mylibrary.\res.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_mcu@datacollection.mcu(sch_1):page3_ins231105@mylibrary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'RES_0603_10K':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):MCU@DATACOLLECTION.MCU(SCH_1):INS231125@MYLIBRARY.RES.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):mcu@datacollection.mcu(sch_1):ins231125@mylibrary.\res.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_mcu@datacollection.mcu(sch_1):page3_ins231125@mylibrary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'RES_0603_10K':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):MCU@DATACOLLECTION.MCU(SCH_1):INS231780@MYLIBRARY.RES.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):mcu@datacollection.mcu(sch_1):ins231780@mylibrary.\res.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_mcu@datacollection.mcu(sch_1):page3_ins231780@mylibrary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'RES_0603_10K':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):MCU@DATACOLLECTION.MCU(SCH_1):INS231350@MYLIBRARY.RES.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):mcu@datacollection.mcu(sch_1):ins231350@mylibrary.\res.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_mcu@datacollection.mcu(sch_1):page3_ins231350@mylibrary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'QUECTEL_EC20_MINI-PCIE_QUECTEL_':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):4G@DATACOLLECTION.4G(SCH_1):INS138@MYLIBRARY.QUECTEL_EC20.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):\4g\@datacollection.\4g\(sch_1):ins138@mylibrary.\quectel_ec20.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_4g@datacollection.\4g\(sch_1):page2_ins138@mylibrary.\quectel_ec20.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U10 'LT1963_LT1963-SOP8_LT1963-3.3':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):POWER@DATACOLLECTION.POWER(SCH_1):INS135700@MYLIBRARY.LT1963.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):power@datacollection.power(sch_1):ins135700@mylibrary.\lt1963.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_power@datacollection.power(sch_1):page5_ins135700@mylibrary.\lt1963.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U11 'SGM2019-1.8YN5G_SOT-25_SGM2019-':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):POWER@DATACOLLECTION.POWER(SCH_1):INS207113@MYLIBRARY.SGM2019-1.8YN5G.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):power@datacollection.power(sch_1):ins207113@mylibrary.\sgm2019-1.8yn5g.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_power@datacollection.power(sch_1):page5_ins207113@mylibrary.\sgm2019-1.8yn5g.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U12 'MP1584_MP1584-SOIC8_MP1584':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):POWER@DATACOLLECTION.POWER(SCH_1):INS191724@MYLIBRARY.MP1584.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):power@datacollection.power(sch_1):ins191724@mylibrary.\mp1584.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_power@datacollection.power(sch_1):page5_ins191724@mylibrary.\mp1584.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'USIM_MCP-719_USIM':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):4G@DATACOLLECTION.4G(SCH_1):INS2314@MYLIBRARY.USIM.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):\4g\@datacollection.\4g\(sch_1):ins2314@mylibrary.\usim.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_4g@datacollection.\4g\(sch_1):page2_ins2314@mylibrary.\usim.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'TXS0108EPWR_TXS0108EPWR_TXS0108':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):4G@DATACOLLECTION.4G(SCH_1):INS1485@MYLIBRARY.TXS0108EPWR.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):\4g\@datacollection.\4g\(sch_1):ins1485@mylibrary.\txs0108epwr.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_4g@datacollection.\4g\(sch_1):page2_ins1485@mylibrary.\txs0108epwr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'STM32F103RBT6_STM32F103_LQFP64_':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):MCU@DATACOLLECTION.MCU(SCH_1):INS230801@MYLIBRARY.STM32F103RBT6.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):mcu@datacollection.mcu(sch_1):ins230801@mylibrary.\stm32f103rbt6.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_mcu@datacollection.mcu(sch_1):page3_ins230801@mylibrary.\stm32f103rbt6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U5 '0.96LCD_OLED_0.96LCD':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):MODULE@DATACOLLECTION.MODULE(SCH_1):INS231885@MYLIBRARY.0.96LCD.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):module@datacollection.module(sch_1):ins231885@mylibrary.\0.96lcd.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_module@datacollection.module(sch_1):page4_ins231885@mylibrary.\0.96lcd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U6 'W25Q256_W25Q64-SOIC8_W25Q64':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):MODULE@DATACOLLECTION.MODULE(SCH_1):INS210208@MYLIBRARY.W25Q256.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):module@datacollection.module(sch_1):ins210208@mylibrary.\w25q256.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_module@datacollection.module(sch_1):page4_ins210208@mylibrary.\w25q256.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U7 'MAX3485ESA_LM334SM-SOP8_MAX3485':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):MODULE@DATACOLLECTION.MODULE(SCH_1):INS232020@MYLIBRARY.MAX3485ESA.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):module@datacollection.module(sch_1):ins232020@mylibrary.\max3485esa.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_module@datacollection.module(sch_1):page4_ins232020@mylibrary.\max3485esa.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U8 'FC-LX1D_FC-LX1D_FC-LX1D':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):POWER@DATACOLLECTION.POWER(SCH_1):INS65@MYLIBRARY.FC-LX1D.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):power@datacollection.power(sch_1):ins65@mylibrary.\fc-lx1d.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_power@datacollection.power(sch_1):page5_ins65@mylibrary.\fc-lx1d.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U9 'LD05-23B05_LD05-23B05_LD05-23B0':;
+
+SECTION_NUMBER 1
+ '@DATACOLLECTION.TOP(SCH_1):POWER@DATACOLLECTION.POWER(SCH_1):INS30@MYLIBRARY.LD05-23B05.NORMAL(CHIPS)':
+ C_PATH='@datacollection.top(sch_1):power@datacollection.power(sch_1):ins30@mylibrary.\ld05-23b05.normal\(chips)',
+ P_PATH='@datacollection.top(sch_1):page1_power@datacollection.power(sch_1):page5_ins30@mylibrary.\ld05-23b05.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

@@ -1,0 +1,19 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    IDF_IN Logfile                                                   )
+(                                                                     )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Tue Apr 11 09:44:11 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+WARNING(SPMHXL-48): There is existing geometry on Board Geometry / Outline.
+This geometry may conflict with the IDF data.
+Review the board outline in Allegro after idf_in is complete.
+
+IDF file: DataCollection.bdf
+Version: 3.0
+Input file: F:/计量采集模块部分/Ven1.0/Pcb/DataCollection.brd
+Output file: F:/计量采集模块部分/Ven1.0/Pcb/DataCollection.brd
+idf_in complete.
