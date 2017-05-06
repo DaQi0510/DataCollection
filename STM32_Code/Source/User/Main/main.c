@@ -4,74 +4,71 @@
 #include "lcd.h"
 #include "RS485.h"
 #include "W25Q64.h"
-volatile u8 Inf;
-volatile u8 Message[100];
+#include <string.h>
+#include <stdlib.h>
+#include "timer.h"
+volatile u16 USART_RX_STA=0; 
+volatile u8 AT_Message[700];
 volatile u16 Meters_DataNum=0;
-u8 Meters_Data_Send[200];
-u8 Meters_Data_Rec[200];
-u8 Address[7];
+volatile u16 URL_Len=0;
+u8 volatile Meters_Data_Rec[100];
+u8 MeterAddress[6];
 u16 ERRORNUM;
 u8 as1[200];
 u8 as2[200];
+u8 Information[700];   //记录需要发送的信息
+volatile u16 TimeFlag=0;
+u16 Flag;
 int main(void)
 {
-	u8 i;
+	u16 i;
 	u16 ID;
 	SystemInit();	   	
 	delay_init(72);
 	W25Q64_Init();
 	LCD_Init();
-	Meters_Data_Send[0]=0x00;
-	Meters_Data_Send[1]=0x00;
-	Meters_Data_Send[2]=0x00;
-	Meters_Data_Send[3]=0x00;
-	Meters_Data_Send[4]=0x68;
-	Meters_Data_Send[5]=0xAA;
-	Meters_Data_Send[6]=0xAA;
-	Meters_Data_Send[7]=0xAA;
-	Meters_Data_Send[8]=0xAA;
-	Meters_Data_Send[9]=0xAA;
-	Meters_Data_Send[10]=0xAA;
-	Meters_Data_Send[11]=0x68;
-	Meters_Data_Send[12]=0x13;
-	Meters_Data_Send[13]=0x00;
-	Meters_Data_Send[15]=0x16;
-	ID=W25QXX_ReadID();
-//	LCD_ShowNum(0,0,ID/256);
-//	LCD_ShowNum(0,1,ID%256);
-	for(i=4;i<13;i++)
-	{
-		Meters_Data_Send[14]+=Meters_Data_Send[i];
-	}
-	for(i=0;i<200;i++)
-	{
-		as1[i]=i;
-	}
-
-	W25QXX_Write(as1,0x00,200);
-	W25QXX_Read(as2,0x00,200);
 	EC20_Init();
-	
 	RS485_Init();
+	SetMeterAddress();
+  Get_MeterAddress();
+	SetAPowerData();
+//	LCD_ShowString(0,0,"4GStart");
+//	while(1)
+//	{
+//		i++;
+//		Flag=GetAPower();
+//		LCD_ShowNum(50,0,ERRORNUM);
+//		LCD_ShowNum(0,7,i);
+//		delay_ms(1000);
+//	}
+	i=WaitReady();
 	delay_ms(1000);
-	delay_ms(1000);
-	delay_ms(1000);
-	delay_ms(1000);
-	delay_ms(1000);
-	delay_ms(1000);
-	delay_ms(1000);
-	delay_ms(1000);
-	delay_ms(1000);
-	delay_ms(1000);
-	delay_ms(1000);
-	delay_ms(1000);
-	delay_ms(1000);
-	delay_ms(1000);
-	SendAT(3);
+	i=HTTP_Init();
+	EC20Start(i);
+	Flag =SendPower();
+	GetAPower();
+	ShoWPowerData(Meters_Data_Rec);
+	Timerx_Init(0,0);
+	ShoWPowerHead();
+	i=0;
 	while(1)
 	{
-		LCD_ShowNum(0,0,Inf);
-		delay_ms(1000);
+		if(TimeFlag>=900)
+		{
+			TimeFlag=0;
+//			LCD_ShowNum(0,5,i);
+//			HTTP_Init();
+//			LCD_ShowNum(0,6,i);
+			Flag=SendPower();
+			GetAPower();
+			ShoWPowerData(Meters_Data_Rec);
+//			LCD_ShowNum(0,5,Flag);
+			
+			
+			i++;
+		}
+//		LCD_ShowNum(0,4,TimeFlag);
+		delay_ms(100);
 	}
 //  while (1)
 //	{
@@ -88,28 +85,31 @@ int main(void)
 //	}
 	while(1)
 	{
-		USART2_Send_Information(Meters_Data_Send,16);
-		delay_ms(1000);
-		if(Address[6]==0)
-		{
-			for(i=0;i<6;i++)
-				Address[i]=Meters_Data_Rec[1+i];
-		}
-		else
-		{
-			for(i=0;i<6;i++)
-			{
-				if(Address[i]!=Meters_Data_Rec[1+i])
-					break;
-			}
-			if(i!=6)
-				ERRORNUM++;
-		}
-		LCD_ShowNum(0,4,ERRORNUM);
-		LCD_ShowNum(0,3,Meters_DataNum);
-		
+//		Get_MeterAddress();
+//		delay_ms(1000);
+//		LCD_ShowNum(0,3,Meters_DataNum);
 		delay_ms(1000);
 	}
+//		if(Address[6]==0)
+//		{
+//			for(i=0;i<6;i++)
+//				Address[i]=Meters_Data_Rec[1+i];
+//		}
+//		else
+//		{
+//			for(i=0;i<6;i++)
+//			{
+//				if(Address[i]!=Meters_Data_Rec[1+i])
+//					break;
+//			}
+//			if(i!=6)
+//				ERRORNUM++;
+//		}
+//		LCD_ShowNum(0,4,ERRORNUM);
+//		LCD_ShowNum(0,3,Meters_DataNum);
+//		
+//		delay_ms(1000);
+//	}
 //  delay_ms(1000);
 
 ////  EC20_RESET=1;

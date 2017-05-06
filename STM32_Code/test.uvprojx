@@ -334,7 +334,7 @@
               <MiscControls></MiscControls>
               <Define></Define>
               <Undefine></Undefine>
-              <IncludePath>.\Source\User\Main;.\Source\CMSIS\Core\CM3;.\Source\STM32F10x_StdPeriph_Driver\inc;.\HardWare\EC20;.\HardWare;.\SYSTEM\sys;.\SYSTEM\delay;.\HardWare\LCD;.\HardWare\RS485;.\HardWare\W25Q64</IncludePath>
+              <IncludePath>.\Source\User\Main;.\Source\CMSIS\Core\CM3;.\Source\STM32F10x_StdPeriph_Driver\inc;.\HardWare\EC20;.\HardWare;.\SYSTEM\sys;.\SYSTEM\delay;.\HardWare\LCD;.\HardWare\RS485;.\HardWare\W25Q64;.\HardWare\TIMER</IncludePath>
             </VariousControls>
           </Cads>
           <Aads>
@@ -417,6 +417,11 @@
               <FileType>1</FileType>
               <FilePath>.\HardWare\W25Q64\W25Q64.c</FilePath>
             </File>
+            <File>
+              <FileName>timer.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\HardWare\TIMER\timer.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
@@ -466,6 +471,11 @@
               <FileName>misc.c</FileName>
               <FileType>1</FileType>
               <FilePath>.\Source\STM32F10x_StdPeriph_Driver\src\misc.c</FilePath>
+            </File>
+            <File>
+              <FileName>stm32f10x_tim.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\Source\STM32F10x_StdPeriph_Driver\src\stm32f10x_tim.c</FilePath>
             </File>
           </Files>
         </Group>

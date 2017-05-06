@@ -1,247 +1,35 @@
-\t (00:01:32) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
-\t (00:01:32)     Journal start - Mon May 01 08:29:50 2017
-\t (00:01:32)         Host=DAQI-PC User=DaQi Pid=3908 CPUs=4
-\t (00:01:32) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
-\t (00:01:32) 
-\d (00:01:32) Design opened: F:/计量采集模块部分/Ven1.0/Pcb/DataCollection.brd
-\i (00:01:33) generaledit 
-\i (00:01:34) settoggle no_etch_shape_display 
-\i (00:01:34) redraw 
-\i (00:01:34) trapsize 8794
-\i (00:01:35) zoom in 1 
-\i (00:01:35) setwindow pcb
-\i (00:01:35) zoom in 2438.054 1573.102
-\i (00:01:35) trapsize 4397
-\i (00:01:35) zoom in 1 
-\i (00:01:35) setwindow pcb
-\i (00:01:35) zoom in 2438.055 1573.103
-\i (00:01:35) trapsize 2198
-\i (00:01:36) zoom in 1 
-\i (00:01:36) setwindow pcb
-\i (00:01:36) zoom in 2420.028 1556.835
-\i (00:01:36) trapsize 1099
-\i (00:01:37) zoom in 1 
-\i (00:01:37) setwindow pcb
-\i (00:01:37) zoom in 2369.904 1556.395
-\i (00:01:37) trapsize 550
-\i (00:01:37) zoom in 1 
-\i (00:01:37) setwindow pcb
-\i (00:01:37) zoom in 2369.905 1556.395
-\i (00:01:37) trapsize 275
-\i (00:01:37) zoom out 1 
-\i (00:01:37) setwindow pcb
-\i (00:01:37) zoom out 2369.960 1556.285
-\i (00:01:37) trapsize 550
-\i (00:01:37) zoom out 1 
-\i (00:01:37) setwindow pcb
-\i (00:01:37) zoom out 2370.289 1555.956
-\i (00:01:37) trapsize 1099
-\i (00:01:37) zoom out 1 
-\i (00:01:37) setwindow pcb
-\i (00:01:37) zoom out 2370.729 1555.957
-\i (00:01:37) trapsize 2198
-\i (00:01:37) zoom in 1 
-\i (00:01:37) setwindow pcb
-\i (00:01:37) zoom in 2405.465 1557.276
-\i (00:01:37) trapsize 1099
-\i (00:01:38) zoom in 1 
-\i (00:01:38) setwindow pcb
-\i (00:01:38) zoom in 2405.465 1557.276
-\i (00:01:38) trapsize 550
-\i (00:03:47) zoom in 1 
-\i (00:03:47) setwindow pcb
-\i (00:03:47) zoom in 2416.347 1542.547
-\i (00:03:47) trapsize 275
-\i (00:03:48) zoom out 1 
-\i (00:03:48) setwindow pcb
-\i (00:03:48) zoom out 2417.282 1541.283
-\i (00:03:48) trapsize 550
-\i (00:03:48) zoom out 1 
-\i (00:03:48) setwindow pcb
-\i (00:03:48) zoom out 2416.732 1540.953
-\i (00:03:48) trapsize 1099
-\i (00:03:48) zoom out 1 
-\i (00:03:48) setwindow pcb
-\i (00:03:48) zoom out 2416.732 1540.733
-\i (00:03:48) trapsize 2198
-\i (00:03:48) zoom out 1 
-\i (00:03:48) setwindow pcb
-\i (00:03:48) zoom out 2416.733 1540.733
-\i (00:03:48) trapsize 4397
-\i (00:03:48) zoom in 1 
-\i (00:03:48) setwindow pcb
-\i (00:03:48) zoom in 2407.939 1535.457
-\i (00:03:48) trapsize 2198
-\i (00:03:49) zoom in 1 
-\i (00:03:49) setwindow pcb
-\i (00:03:49) zoom in 2406.620 1439.166
-\i (00:03:49) trapsize 1099
-\i (00:03:50) zoom in 1 
-\i (00:03:50) setwindow pcb
-\i (00:03:50) zoom in 2420.470 1425.537
-\i (00:03:50) trapsize 550
-\i (00:03:51) zoom out 1 
-\i (00:03:51) setwindow pcb
-\i (00:03:51) zoom out 2420.030 1441.365
-\i (00:03:51) trapsize 1099
-\i (00:03:52) zoom in 1 
-\i (00:03:52) setwindow pcb
-\i (00:03:52) zoom in 2411.677 1525.125
-\i (00:03:52) trapsize 550
-\i (00:03:52) zoom in 1 
-\i (00:03:52) setwindow pcb
-\i (00:03:52) zoom in 2416.074 1489.951
-\i (00:03:52) trapsize 275
-\i (00:03:53) zoom out 1 
-\i (00:03:53) setwindow pcb
-\i (00:03:53) zoom out 2416.404 1485.664
-\i (00:03:53) trapsize 550
-\i (00:03:53) zoom out 1 
-\i (00:03:53) setwindow pcb
-\i (00:03:53) zoom out 2416.294 1484.236
-\i (00:03:53) trapsize 1099
-\i (00:03:54) zoom in 1 
-\i (00:03:54) setwindow pcb
-\i (00:03:54) zoom in 2411.018 1559.861
-\i (00:03:54) trapsize 550
-\i (00:05:07) zoom out 1 
-\i (00:05:07) setwindow pcb
-\i (00:05:07) zoom out 2411.018 1559.861
-\i (00:05:07) trapsize 1099
-\i (00:05:07) zoom out 1 
-\i (00:05:07) setwindow pcb
-\i (00:05:07) zoom out 2411.018 1559.642
-\i (00:05:07) trapsize 2198
-\i (00:05:08) zoom in 1 
-\i (00:05:08) setwindow pcb
-\i (00:05:08) zoom in 2403.543 1408.391
-\i (00:05:08) trapsize 1099
-\i (00:05:08) zoom in 1 
-\i (00:05:08) setwindow pcb
-\i (00:05:08) zoom in 2403.324 1409.271
-\i (00:05:08) trapsize 550
-\i (00:08:15) pick grid 2444.654 1425.210
-\t (00:08:15) last pick:  2444.610 1425.214
-\i (00:08:16) zoom out 1 
-\i (00:08:16) setwindow pcb
-\i (00:08:16) zoom out 2433.992 1421.363
-\i (00:08:16) trapsize 1099
-\i (00:08:16) zoom out 1 
-\i (00:08:16) setwindow pcb
-\i (00:08:16) zoom out 2433.553 1420.923
-\i (00:08:16) trapsize 2198
-\i (00:08:17) zoom in 1 
-\i (00:08:17) setwindow pcb
-\i (00:08:17) zoom in 2406.292 1521.610
-\i (00:08:17) trapsize 1099
-\i (00:08:17) zoom in 1 
-\i (00:08:17) setwindow pcb
-\i (00:08:17) zoom in 2414.426 1506.441
-\i (00:08:17) trapsize 550
-\i (00:08:19) zoom out 1 
-\i (00:08:19) setwindow pcb
-\i (00:08:19) zoom out 2414.646 1505.782
-\i (00:08:19) trapsize 1099
-\i (00:08:50) zoom out 1 
-\i (00:08:50) setwindow pcb
-\i (00:08:50) zoom out 2414.646 1505.122
-\i (00:08:50) trapsize 2198
-\i (00:08:51) zoom in 1 
-\i (00:08:51) setwindow pcb
-\i (00:08:51) zoom in 2402.775 1560.522
-\i (00:08:51) trapsize 1099
-\i (00:08:52) zoom out 1 
-\i (00:08:52) setwindow pcb
-\i (00:08:52) zoom out 2402.556 1559.423
-\i (00:08:52) trapsize 2198
-\i (00:08:52) zoom out 1 
-\i (00:08:52) setwindow pcb
-\i (00:08:52) zoom out 2410.909 1533.481
-\i (00:08:52) trapsize 4397
-\i (00:08:53) zoom in 1 
-\i (00:08:53) setwindow pcb
-\i (00:08:53) zoom in 2399.478 1559.862
-\i (00:08:53) trapsize 2198
-\i (00:08:53) zoom in 1 
-\i (00:08:53) setwindow pcb
-\i (00:08:53) zoom in 2399.478 1559.862
-\i (00:08:53) trapsize 1099
-\i (00:08:53) zoom out 1 
-\i (00:08:53) setwindow pcb
-\i (00:08:53) zoom out 2399.479 1559.862
-\i (00:08:53) trapsize 2198
-\i (00:08:53) zoom out 1 
-\i (00:08:53) setwindow pcb
-\i (00:08:53) zoom out 2399.478 1559.862
-\i (00:08:53) trapsize 4397
-\i (00:08:55) zoom in 1 
-\i (00:08:55) setwindow pcb
-\i (00:08:55) zoom in 2414.428 1561.622
-\i (00:08:55) trapsize 2198
-\i (00:08:55) zoom in 1 
-\i (00:08:55) setwindow pcb
-\i (00:08:55) zoom in 2414.428 1560.742
-\i (00:08:55) trapsize 1099
-\i (00:09:09) zoom out 1 
-\i (00:09:09) setwindow pcb
-\i (00:09:09) zoom out 2412.449 1558.983
-\i (00:09:09) trapsize 2198
-\i (00:09:09) zoom out 1 
-\i (00:09:09) setwindow pcb
-\i (00:09:09) zoom out 2409.372 1557.225
-\i (00:09:09) trapsize 4397
-\i (00:09:09) zoom in 1 
-\i (00:09:09) setwindow pcb
-\i (00:09:09) zoom in 2419.045 1660.990
-\i (00:09:09) trapsize 2198
-\i (00:09:09) zoom in 1 
-\i (00:09:09) setwindow pcb
-\i (00:09:09) zoom in 2419.046 1660.991
-\i (00:09:09) trapsize 1099
-\i (00:09:10) zoom in 1 
-\i (00:09:10) setwindow pcb
-\i (00:09:10) zoom in 2419.046 1660.991
-\i (00:09:10) trapsize 550
-\i (00:09:10) zoom out 1 
-\i (00:09:10) setwindow pcb
-\i (00:09:10) zoom out 2417.837 1637.358
-\i (00:09:10) trapsize 1099
-\i (00:16:57) done 
-\i (00:16:57) generaledit 
-\i (12:37:32) zoom in 1 
-\i (12:37:32) setwindow pcb
-\i (12:37:32) zoom in 2261.749 1650.769
-\i (12:37:32) trapsize 550
-\i (12:37:32) zoom out 1 
-\i (12:37:32) setwindow pcb
-\i (12:37:32) zoom out 2282.304 1638.568
-\i (12:37:32) trapsize 1099
-\i (12:37:32) zoom out 1 
-\i (12:37:32) setwindow pcb
-\i (12:37:32) zoom out 2285.163 1636.370
-\i (12:37:32) trapsize 2198
-\i (12:37:32) zoom out 1 
-\i (12:37:32) setwindow pcb
-\i (12:37:32) zoom out 2285.162 1636.370
-\i (12:37:32) trapsize 4397
-\i (12:37:33) zoom out 1 
-\i (12:37:33) setwindow pcb
-\i (12:37:33) zoom out 2285.162 1636.370
-\i (12:37:33) trapsize 8794
-\i (12:37:33) zoom out 1 
-\i (12:37:33) setwindow pcb
-\i (12:37:33) zoom out 2285.162 1636.371
-\i (12:37:33) trapsize 17587
-\i (12:37:33) zoom out 1 
-\i (12:37:33) setwindow pcb
-\i (12:37:33) zoom out 2285.163 1636.370
-\i (12:37:33) trapsize 35175
-\i (12:37:35) open 
-\i (12:38:02) fillin "F:\CADENCE LIB\cadence-lib-new\foorprint\TPS54320RHL\TPS54320RHL.dra"
-\i (12:38:02) cd "F:\CADENCE LIB\cadence-lib-new\foorprint\TPS54320RHL"
-\t (12:38:02) Opening existing design...
-\i (12:38:03) trapsize 389
-\i (12:38:04) trapsize 382
-\i (12:38:04) trapsize 389
-\i (12:38:06) trapsize 389
-\t (12:38:06)     Journal end - Mon May 01 21:06:24 2017
+\t (00:00:01) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:00:01)     Journal start - Fri May 05 11:38:25 2017
+\t (00:00:01)         Host=DAQI-PC User=DaQi Pid=11632 CPUs=4
+\t (00:00:01) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (00:00:01) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Design opened: F:/计量采集模块部分/Ven1.0/Pcb/DataCollection.brd
+\i (00:00:04) trapsize 39703
+\i (00:00:04) trapsize 38989
+\i (00:00:04) trapsize 39824
+\i (00:00:08) trapsize 35175
+\i (00:00:08) trapsize 35175
+\i (00:00:09) generaledit 
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in 873.603 1836.264
+\i (00:00:13) trapsize 17587
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 1031.889 1832.747
+\i (00:00:14) trapsize 35175
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 1190.174 1832.746
+\i (00:00:14) trapsize 70349
+\i (00:00:16) open 
+\i (00:00:43) fillin "F:\CADENCE LIB\cadence-lib-new\foorprint\MINI-PCIe\MINI-PCIe.dra"
+\i (00:00:43) cd "F:\CADENCE LIB\cadence-lib-new\foorprint\MINI-PCIe"
+\t (00:00:43) Opening existing design...
+\i (00:00:44) trapsize 1645
+\i (00:00:44) trapsize 1614
+\i (00:00:44) trapsize 1645
+\i (00:00:47) trapsize 1645
+\t (00:00:47)     Journal end - Fri May 05 11:39:11 2017

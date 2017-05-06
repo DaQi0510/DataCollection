@@ -102,19 +102,20 @@
       (Path "Design Resources" ".\datacollection.dsn" "MCU")
       (Path "Design Resources" ".\datacollection.dsn" "Module")
       (Path "Design Resources" ".\datacollection.dsn" "Power")
+      (Path "Design Resources" ".\datacollection.dsn" "Design Cache")
       (Path "Outputs")
-      (Select "Design Resources" ".\datacollection.dsn" "Power" "Power"))
+      (Select "Design Resources" ".\datacollection.dsn" "Top" "Top"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 867"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 364 0 867"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 100 1034 100 357")
-        (Scroll "967 104")
+        (Placement "44 2 3 -1 -1 -8 -30 100 1034 100 357")
+        (Scroll "713 104")
         (Zoom "264")
         (Occurrence "/"))
       (Path "F:\计量采集模块部分\VEN1.0\SCH\DATACOLLECTION.DSN")
@@ -124,8 +125,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -30 0 934 0 257")
-        (Scroll "0 156")
-        (Zoom "216")
+        (Scroll "0 0")
+        (Zoom "108")
         (Occurrence "/4G"))
       (Path "F:\计量采集模块部分\VEN1.0\SCH\DATACOLLECTION.DSN")
       (Schematic "4G")
@@ -143,8 +144,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -30 25 959 25 282")
-        (Scroll "-268 -8")
+        (Placement "44 0 1 -1 -1 -8 -30 25 959 25 282")
+        (Scroll "0 0")
         (Zoom "108")
         (Occurrence "/Power"))
       (Path "F:\计量采集模块部分\VEN1.0\SCH\DATACOLLECTION.DSN")
@@ -161,6 +162,10 @@
       (Schematic "Module")
       (Page "Module")))
   (PartMRUSelector
+    (TPS54320RHL
+      (FullPartName "TPS54320RHL.Normal")
+      (LibraryName "F:\CADENCE LIB\CADENCE-LIB-NEW\MYLIBRARY.OLB")
+      (DeviceIndex "0"))
     (PORTBOTH-L
       (LibraryName "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))

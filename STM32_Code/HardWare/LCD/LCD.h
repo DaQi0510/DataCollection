@@ -19,6 +19,9 @@
  void ShowChannel(u8 Value);
  void ShowStateValue(u8 Value);
  void ShowHoldTimeValue(u8 Value);
- 
+ void LCD_ShowString(u8 x,u8 y,u8 *p);
+ void EC20Start(u8 num);
+ void ShoWPowerHead(void);
+void ShoWPowerData(u8 *Informations);
 #endif
 

@@ -10,7 +10,7 @@
 
 #define X_WIDTH 128
 #define Y_WIDTH 64
-
+extern u8 volatile Meters_Data_Rec[100];
 const u8 F6x8[][6] =
 {
     { 0x00, 0x00, 0x00, 0x00, 0x00, 0x00 },   // sp
@@ -642,4 +642,52 @@ void ShowHoldTimeValue(u8 Value)
 		for(j=0;j<6;j++) 
 			LCD_WrDat(F6x8['s'-32][j]);
 	}
+}
+void LCD_ShowString(u8 x,u8 y,u8 *p)
+{
+	u8 i;
+	while((*p<='~')&&(*p>=' '))
+	{
+		LCD_Set_Pos(x,y);
+		for(i=0;i<6;i++) 
+			LCD_WrDat(F6x8[*p-32][i]);
+		x+=6;
+		p++;
+	}
+}
+void EC20Start(u8 num)
+{
+	if(num==0)
+		LCD_ShowString(0,0,"4GStart:OK");
+	else
+		LCD_ShowString(0,0,"4GStart:FAIL");
+}
+void ShoWPowerHead(void)
+{
+	LCD_ShowString(0,2,"A_Power:");
+	LCD_ShowString(90,2,"KWh");
+}
+void ShoWPowerData(u8 *Informations)
+{
+	u8 j;
+	u8 Data[5];
+	Data[0]=((Informations[15]-0x33)/16)+16;
+	LCD_Set_Pos(50,2);
+	for(j=0;j<6;j++) 
+			LCD_WrDat(F6x8[Data[0]][j]);
+	Data[1]=((Informations[15]-0x33)%16)+16;
+	LCD_Set_Pos(56,2);
+	for(j=0;j<6;j++) 
+			LCD_WrDat(F6x8[Data[1]][j]);
+	LCD_Set_Pos(62,2);
+	for(j=0;j<6;j++) 
+			LCD_WrDat(F6x8[14][j]);
+	Data[3]=((Informations[14]-0x33)/16)+16;
+	LCD_Set_Pos(68,2);
+	for(j=0;j<6;j++) 
+			LCD_WrDat(F6x8[Data[3]][j]);
+	Data[4]=((Informations[14]-0x33)%16)+16;
+	LCD_Set_Pos(74,2);
+	for(j=0;j<6;j++) 
+			LCD_WrDat(F6x8[Data[4]][j]);
 }

@@ -10,6 +10,11 @@
 void RS485_Init(void);
 void USART2_Send_Byte(u16 Data);
 void USART2_Send_Information(u8 *Information,u16 Length);
+u8 Get_MeterAddress(void);
+u8 GetAPower(void);
+void SetAPowerData(void);
+void SetMeterAddress(void);
+void Wake(void);
 
 
 #endif
